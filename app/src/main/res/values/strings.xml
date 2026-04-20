@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phone Agent</string>
+    <string name="accessibility_description">Phone Agent 无障碍服务，用于自动化控制手机操作。</string>
+    <string name="foreground_notification_title">Phone Agent</string>
+    <string name="foreground_notification_text">Phone Agent 运行中</string>
+    <string name="foreground_notification_channel">phone_agent_service</string>
+    <string name="foreground_notification_channel_desc">Phone Agent 后台运行通知</string>
+</resources>
